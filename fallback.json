@@ -1,0 +1,13 @@
+{
+    "articles": [
+        {
+            "title": "O cachorro não consegue encontrar os artigos, somente a bola",
+            "url": "",
+            "urlToImage": "images/fetch-dog.jpg",
+            "description": "Tente carregar a página novamente quando estiver com conexão.",
+            "source": {
+                "name": "Bruno Lucas"
+            }
+        }
+    ]
+}
